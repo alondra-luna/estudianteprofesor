@@ -1,0 +1,30 @@
+C:\Users\Alondra\Documents\TRSF\bin\Debug\net6.0\TRSF.exe
+C:\Users\Alondra\Documents\TRSF\bin\Debug\net6.0\TRSF.deps.json
+C:\Users\Alondra\Documents\TRSF\bin\Debug\net6.0\TRSF.runtimeconfig.json
+C:\Users\Alondra\Documents\TRSF\bin\Debug\net6.0\TRSF.dll
+C:\Users\Alondra\Documents\TRSF\bin\Debug\net6.0\TRSF.pdb
+C:\Users\Alondra\Documents\TRSF\obj\Debug\net6.0\TRSF.csproj.AssemblyReference.cache
+C:\Users\Alondra\Documents\TRSF\obj\Debug\net6.0\TRSF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alondra\Documents\TRSF\obj\Debug\net6.0\TRSF.AssemblyInfoInputs.cache
+C:\Users\Alondra\Documents\TRSF\obj\Debug\net6.0\TRSF.AssemblyInfo.cs
+C:\Users\Alondra\Documents\TRSF\obj\Debug\net6.0\TRSF.csproj.CoreCompileInputs.cache
+C:\Users\Alondra\Documents\TRSF\obj\Debug\net6.0\TRSF.dll
+C:\Users\Alondra\Documents\TRSF\obj\Debug\net6.0\refint\TRSF.dll
+C:\Users\Alondra\Documents\TRSF\obj\Debug\net6.0\TRSF.pdb
+C:\Users\Alondra\Documents\TRSF\obj\Debug\net6.0\TRSF.genruntimeconfig.cache
+C:\Users\Alondra\Documents\TRSF\obj\Debug\net6.0\ref\TRSF.dll
+C:\Users\Alondra\Documents\Primabera 2022\TRSF\bin\Debug\net6.0\TRSF.exe
+C:\Users\Alondra\Documents\Primabera 2022\TRSF\bin\Debug\net6.0\TRSF.deps.json
+C:\Users\Alondra\Documents\Primabera 2022\TRSF\bin\Debug\net6.0\TRSF.runtimeconfig.json
+C:\Users\Alondra\Documents\Primabera 2022\TRSF\bin\Debug\net6.0\TRSF.dll
+C:\Users\Alondra\Documents\Primabera 2022\TRSF\bin\Debug\net6.0\TRSF.pdb
+C:\Users\Alondra\Documents\Primabera 2022\TRSF\obj\Debug\net6.0\TRSF.csproj.AssemblyReference.cache
+C:\Users\Alondra\Documents\Primabera 2022\TRSF\obj\Debug\net6.0\TRSF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alondra\Documents\Primabera 2022\TRSF\obj\Debug\net6.0\TRSF.AssemblyInfoInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\TRSF\obj\Debug\net6.0\TRSF.AssemblyInfo.cs
+C:\Users\Alondra\Documents\Primabera 2022\TRSF\obj\Debug\net6.0\TRSF.csproj.CoreCompileInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\TRSF\obj\Debug\net6.0\TRSF.dll
+C:\Users\Alondra\Documents\Primabera 2022\TRSF\obj\Debug\net6.0\refint\TRSF.dll
+C:\Users\Alondra\Documents\Primabera 2022\TRSF\obj\Debug\net6.0\TRSF.pdb
+C:\Users\Alondra\Documents\Primabera 2022\TRSF\obj\Debug\net6.0\TRSF.genruntimeconfig.cache
+C:\Users\Alondra\Documents\Primabera 2022\TRSF\obj\Debug\net6.0\ref\TRSF.dll
