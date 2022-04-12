@@ -1,0 +1,15 @@
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\Ejemplo de sesion 6 Rectangulo\bin\Debug\net6.0\Ejemplo de sesion 6 Rectangulo.exe
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\Ejemplo de sesion 6 Rectangulo\bin\Debug\net6.0\Ejemplo de sesion 6 Rectangulo.deps.json
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\Ejemplo de sesion 6 Rectangulo\bin\Debug\net6.0\Ejemplo de sesion 6 Rectangulo.runtimeconfig.json
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\Ejemplo de sesion 6 Rectangulo\bin\Debug\net6.0\Ejemplo de sesion 6 Rectangulo.dll
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\Ejemplo de sesion 6 Rectangulo\bin\Debug\net6.0\Ejemplo de sesion 6 Rectangulo.pdb
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\Ejemplo de sesion 6 Rectangulo\obj\Debug\net6.0\Ejemplo de sesion 6 Rectangulo.csproj.AssemblyReference.cache
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\Ejemplo de sesion 6 Rectangulo\obj\Debug\net6.0\Ejemplo de sesion 6 Rectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\Ejemplo de sesion 6 Rectangulo\obj\Debug\net6.0\Ejemplo de sesion 6 Rectangulo.AssemblyInfoInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\Ejemplo de sesion 6 Rectangulo\obj\Debug\net6.0\Ejemplo de sesion 6 Rectangulo.AssemblyInfo.cs
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\Ejemplo de sesion 6 Rectangulo\obj\Debug\net6.0\Ejemplo de sesion 6 Rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\Ejemplo de sesion 6 Rectangulo\obj\Debug\net6.0\Ejemplo de sesion 6 Rectangulo.dll
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\Ejemplo de sesion 6 Rectangulo\obj\Debug\net6.0\refint\Ejemplo de sesion 6 Rectangulo.dll
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\Ejemplo de sesion 6 Rectangulo\obj\Debug\net6.0\Ejemplo de sesion 6 Rectangulo.pdb
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\Ejemplo de sesion 6 Rectangulo\obj\Debug\net6.0\Ejemplo de sesion 6 Rectangulo.genruntimeconfig.cache
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\Ejemplo de sesion 6 Rectangulo\obj\Debug\net6.0\ref\Ejemplo de sesion 6 Rectangulo.dll
